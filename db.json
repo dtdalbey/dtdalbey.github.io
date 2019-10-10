@@ -6,12 +6,6 @@
       "organization" : "organization name",
       "payment category" : "12345"
     }
-    {
-      "transaction" : "ch_a098asdf098sdf098sfa489d098",
-      "account" : "account id",
-      "organization" : "organization name",
-      "payment category" : "12345"
-    }
   ],
   "profile": {
     "name": "dtdalbey"
